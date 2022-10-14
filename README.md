@@ -30,14 +30,22 @@ https://github.com/511lab/EBSA/SG_test
 
 ## Source Codes on Matlab are available at,   
 https://github.com/511lab/EBSA/code
+
 1.main.m # The main function of Classification performance.
+
 2.Ntest.m # The main function of Noise experiment.
+
 3.EBSA.m # The function of our proposed EBSA algorithm.
+
 4.ECSG.m # The function of the High-confidence samples selection algorithm.
+
 5.Random_sampling.m # The function of the Stratified sampling of the Classification performance.
+
 6.noise_sampling.m # The function of the Sampling ratio of the Noise experiment.
+
 (1) Classification performance
  Download the codes on https://github.com/511lab/EBSA/code, then run the main.m code.
+ 
 (2) Noise experiment
 Download the codes on https://github.com/511lab/EBSA/code, then run the Ntest.m code.
 
