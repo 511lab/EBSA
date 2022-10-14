@@ -18,11 +18,17 @@ link: https://github.com/511lab/EBSA/datasets
 
 ## Results
 #Classification performance results on our datasets:
+
 https://github.com/511lab/EBSA/CLA_P
+
+and
 https://github.com/511lab/EBSA/CLA_image
 
 #Noise experiment results on our datasets:
+
 https://github.com/511lab/EBSA/NOISE
+
+and
 https://github.com/511lab/EBSA/NOISE_image
 
 #Classifier experiment results on our datasets:
