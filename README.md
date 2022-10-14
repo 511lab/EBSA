@@ -50,9 +50,11 @@ https://github.com/511lab/EBSA/code
 6.noise_sampling.m # The function of the Sampling ratio of the Noise experiment.
 
 (1) Classification performance
+
  Download the codes on https://github.com/511lab/EBSA/code, then run the main.m code.
  
 (2) Noise experiment
+
 Download the codes on https://github.com/511lab/EBSA/code, then run the Ntest.m code.
 
 # Citation:
