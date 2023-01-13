@@ -31,9 +31,6 @@ https://github.com/511lab/EBSA/NOISE
 and
 https://github.com/511lab/EBSA/NOISE_image
 
-#Classifier experiment results on our datasets:
-https://github.com/511lab/EBSA/SG_test
-
 ## Source Codes on Matlab are available at,   
 https://github.com/511lab/EBSA/code
 
